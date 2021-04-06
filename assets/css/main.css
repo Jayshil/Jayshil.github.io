@@ -1,5 +1,6 @@
 @import url("fontawesome-all.min.css");
-@import url("https://fonts.googleapis.com/css?family=Roboto:100,300,100italic,300italic");
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans:ital,wght@0,100;0,300;0,400;0,500;0,700;0,800;1,100;1,300;1,400;1,500;1,700;1,800&display=swap');
+/*@import url("https://fonts.googleapis.com/css?family=Roboto:100,300,100italic,300italic");
 
 /*
 	Landed by HTML5 UP
@@ -3369,6 +3370,7 @@ input, select, textarea {
 
 /* Header */
 
+
 	#page-wrapper {
 		padding-top: 3.5em;
 	}
@@ -3385,6 +3387,7 @@ input, select, textarea {
 		width: 100%;
 		z-index: 100;
 	}
+  
 
 		#header h1 {
 			height: inherit;
@@ -3471,10 +3474,10 @@ input, select, textarea {
 		}
 
 		#banner:after {
-			background-image: -moz-linear-gradient(top, rgba(23, 24, 32, 0.75), rgba(23, 24, 32, 0.75)), url("images/overlay.png");;
-			background-image: -webkit-linear-gradient(top, rgba(23, 24, 32, 0.75), rgba(23, 24, 32, 0.75)), url("images/overlay.png");;
-			background-image: -ms-linear-gradient(top, rgba(23, 24, 32, 0.75), rgba(23, 24, 32, 0.75)), url("images/overlay.png");;
-			background-image: linear-gradient(top, rgba(23, 24, 32, 0.75), rgba(23, 24, 32, 0.75)), url("images/overlay.png");;
+			background-image: -moz-linear-gradient(top, rgba(23, 24, 32, 0.625), rgba(23, 24, 32, 0.625)), url("images/overlay.png");;
+			background-image: -webkit-linear-gradient(top, rgba(23, 24, 32, 0.625), rgba(23, 24, 32, 0.625)), url("images/overlay.png");;
+			background-image: -ms-linear-gradient(top, rgba(23, 24, 32, 0.625), rgba(23, 24, 32, 0.625)), url("images/overlay.png");;
+			background-image: linear-gradient(top, rgba(23, 24, 32, 0.625), rgba(23, 24, 32, 0.625)), url("images/overlay.png");;
 			content: '';
 			display: block;
 			height: 100%;

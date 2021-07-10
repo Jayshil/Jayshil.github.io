@@ -2431,12 +2431,9 @@ input, select, textarea {
 
 		.image.left, .image.right {
 			border-radius: 50%;
-			max-width: 40%;
 		}
 
-			.image.left img, .image.right img {
-				width: 100%;
-			}
+			
 
 		.image.left {
 			float: left;

@@ -2419,11 +2419,12 @@ input, select, textarea {
 	}
 
 		.image img {
-			border-radius: 50%;
+			border-radius: 5px;
 			display: block;
 		}
 
 		.image.left, .image.right {
+			border-radius: 50%;
 			max-width: 40%;
 		}
 
